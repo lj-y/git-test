@@ -1,5 +1,5 @@
 # runoob-git-test
-$ git remoto add origin git@github.com:lj-y/runoob-git-test.git
+$ git remote add origin git@github.com:lj-y/runoob-git-test.git
 
 git init //初始化仓库
 
