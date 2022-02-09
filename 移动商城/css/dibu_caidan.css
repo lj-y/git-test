@@ -28,6 +28,9 @@
 .dibu_caidan_xiangmu_biaoti {
     font-size: 14px;
 }
+.dibu_caidan_xiangmu_biaoti_xuanzhong{
+	color: red;
+}
 .gouwucheshu {
 	position: absolute;
 	width:  13px;
